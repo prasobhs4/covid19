@@ -1,0 +1,26 @@
+.container{
+ margin: 150px 0;
+}
+
+
+.card{
+    margin: 0 1% !important;
+   }
+
+.infected{
+border-bottom: 10px solid rgba(0, 0, 255, 0.87);
+}
+
+.recoveredtxt{
+    color: grey;
+ }
+.recovered{
+    border-bottom: 10px solid rgba(0, 255, 55, 0.747);
+}
+
+
+ 
+
+.deaths{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.897);
+}

@@ -1,0 +1,26 @@
+chart 
+npm install --save axios react-chartjs-2 react-countup classnames
+chart.js
+
+
+
+const lineChart =
+ (
+    dailyData.length ?
+    <Line data={{
+        labels: ''.
+       datasets:[{},{}],
+    }}/> : null
+
+)
+
+
+const barChart = (
+   data.confirmed ? (
+       <Bar 
+       data={{}}
+       options={{
+           
+       }}
+       />
+   )
